@@ -1,0 +1,5 @@
+export * from './register-user.dto'
+export * from './generate-tokens.dto'
+export * from './validate-user.dto'
+export * from './login-user.dto'
+export * from './new-password.dto'
